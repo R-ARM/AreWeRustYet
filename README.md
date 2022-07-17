@@ -1,9 +1,11 @@
 # Are We Rust Yet?
 
 ## This is a tracker file for oxidization of Ragnarok.
-
 | Component         | Traditional implementation | Rust implementation | Priority | Status |
 |-------------------|----------------------------|---------------------|----------|--------|
 | Window Management | Weston                     | ???                 |          | TODO?  |
-| Coreutils         | busybox                    | uutils              | Medium   | Low    |
-| Main Menu         | RMenu2                     | TODO                | High     | In     |
+| Coreutils         | busybox                    | uutils              | Low      |        |
+| Main Menu         | RMenu2                     | TODO                | High     | WIP    |
+| Input daemons     | rinputer2 & rbinder        | TODO                | High     | WIP    |
+| Debug daemon      | Missing                    | TODO                | High     |        |
+| Init system       | busybox init               | ???                 | Medium   |        |
